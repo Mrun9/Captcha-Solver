@@ -13,3 +13,5 @@ test2.py : Zero shot |
 main3.py : few shots
 
 FewShots folder contains the few shot images that evey model is given.
+
+Folders "Scrambled Copy" and "Unscrambled" have 100 images each for testing.
